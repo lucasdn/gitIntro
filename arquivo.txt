@@ -1,2 +1,5 @@
 alteração uma ++++
-alteracao que aconteceu na ---- branch dev dif
+alteracao que aconteceu na ----
+
+alteração uma o stash
+alteracao que aconteceu na branch dev dif
