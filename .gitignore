@@ -1,3 +1,7 @@
+#exemplo de ignorar
 ignorar.txt
 abacaxi/*.jpg
 tabacaxi/img.jpg
+
+#System Files
+.DS_Store
